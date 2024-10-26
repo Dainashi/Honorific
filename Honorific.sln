@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{A70663D7-6EA4-4FD8-AC9A-BB7D1CD86678}") = "Honorific", "Honorific.csproj", "{B4FE8155-7639-4588-8715-1EB17CDF8F15}"
+Project("{A70663D7-6EA4-4FD8-AC9A-BB7D1CD86678}") = "HonorificFORK", "HonorificFORK.csproj", "{B4FE8155-7639-4588-8715-1EB17CDF8F15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
